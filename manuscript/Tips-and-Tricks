@@ -1,0 +1,24 @@
+Cherry-pick commits for a patch release
+
+Sometimes work is done to fix a bug in Development and that bug also needs to be fixed in production. The cleanest way to do that is by selecting just that commit and selectively applying it to the production branch. This is called cherry-picking and is accomplished with the following commands.
+
+With Development as the main development branch, Master as the release branch and ada255fdf0d778596038e65fdada724db093d158 as the commit you need to pull into a patch.
+
+git checkout Development 
+git pull
+git checkout Master
+git checkout -b "release-candidate-2.10.1"
+git cherry-pick ada255fdf0d778596038e65fdada724db093d158
+git push --set-upstream origin release-candidate-2.10.1
+
+Reverting a bad commit
+
+It happens to the best of us. One day you’re working as you normally do and for whatever reason some code gets merged into Development or master and you suddenly discover that it breaks the build or contains a regression. You need to get that commit out of there. How do you do it?
+
+There are many ways to fix a bad commit in Git. This section will outline the different strategies available to you to fix a bad commit. 
+
+Undo the Change
+
+The simplest fix might be to simply undo the change. If there’s a bad entry in package.json or a typo in a TypeScript file, simply fix the offending file, commit it and push it into your branch. This is quick and very clear as the commit history will clearly outline the order of events (assuming the commit messages are readable.)
+
+Revert the Commit  
