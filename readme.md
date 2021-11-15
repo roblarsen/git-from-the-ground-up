@@ -3,16 +3,25 @@
 Outline
 
 1. Introduction to Git
-    a. What is Source Code Management (SCM?)
-    b. The SCM landscape before Git
-    c. A Brief History of Git
-    d. Commercial support with GitHub, BitBucket and GitLab
+    * What is Source Code Management (SCM?)
+    * The SCM landscape before Git
+    * A Brief History of Git
+    * Commercial support with GitHub, BitBucket and GitLab
 2. Diving Right In
-    a. Installing Git
-    b. A Brief Introduction to Git Tooling
-    b. Creating your first repo
-    c. Creating your first commit
-    d. Connecting your local repo to GitHub
-    e. Pushing your changes to GitHub
-3. A Guide to the Most Common Git Commands
-    a. An introduction to git checkout
+    * Installing Git
+    * A Brief Introduction to Git Tooling
+    * Setting up your local configuration
+    * Creating your first repo
+    * Creating your first commit
+    * Connecting your local repo to GitHub
+    * Pushing your changes to GitHub
+3. A Guide to Common Git Commands
+    * An introduction to git checkout
+    * Safely store your changes with git stash
+    * Viewing the history of a repo with git log
+    * Working with branches using git branch, git checkout and git merge
+    * Working with remotes using git remote, git fetch, git push and git pull
+    * Local housekeeping with git reset, git revert and git clean
+4. A Sample GitHub workflow
+
+
