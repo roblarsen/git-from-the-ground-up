@@ -11,6 +11,7 @@ Outline
     * Installing Git
     * A Brief Introduction to Git Tooling
     * Setting up your local configuration
+    * Setting up VS Code to work With Git
     * Creating your first repo
     * Creating your first commit
     * Connecting your local repo to GitHub
@@ -22,6 +23,15 @@ Outline
     * Working with branches using git branch, git checkout and git merge
     * Working with remotes using git remote, git fetch, git push and git pull
     * Local housekeeping with git reset, git revert and git clean
-4. A Sample GitHub workflow
-
-
+4. Advanced Git Commands
+    *
+5. A Sample GitHub workflow
+    * Working With Pull Requests
+    * Creating a Feature Branch
+    * Opening a Pull Request in GitHub
+    * Requesting Reviewers and assigning yourself the ticket
+    * Using the Draft Feature Whie Code is a Work in Progress
+    * Using Tags
+    * Introducing the Integration Box
+    * The Review Process
+6. Code Quality and Automation with GitHub Tools
