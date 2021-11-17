@@ -21,10 +21,13 @@ Outline
     * Safely store your changes with git stash
     * Viewing the history of a repo with git log
     * Working with branches using git branch, git checkout and git merge
+    * A note on Git merging strategies
     * Working with remotes using git remote, git fetch, git push and git pull
     * Local housekeeping with git reset, git revert and git clean
-4. Advanced Git Commands
-    *
+4. Uncommon But Useful Git Commands
+    * Squashing Commits with an Interactive Rebase
+    * In Case of Emergency: Break Glass. Aggressively Rewriting History.
+    * Working with multiple remotes
 5. A Sample GitHub workflow
     * Working With Pull Requests
     * Creating a Feature Branch
@@ -32,6 +35,6 @@ Outline
     * Requesting Reviewers and assigning yourself the ticket
     * Using the Draft Feature Whie Code is a Work in Progress
     * Using Tags
-    * Introducing the Integration Box
+    * Code Quality Tools
     * The Review Process
-6. Code Quality and Automation with GitHub Tools
+6. Code Quality and Automation with GitHub Actions
