@@ -1,3 +1,7 @@
 Introduction
 Introducing-Git
-Tips-and-Tricks
+Diving-Right-In
+A-Guide-to-Common-Git-Commands
+Uncommon-But-Useful-Git-Commands
+A-Sample-GitHub-workflow
+Code-Quality-and-Automation-with-GitHub-Actions
