@@ -24,17 +24,25 @@ Outline
     * A note on Git merging strategies
     * Working with remotes using git remote, git fetch, git push and git pull
     * Local housekeeping with git reset, git revert and git clean
-4. Uncommon But Useful Git Commands
+    * Ready for release, creating and pushing tags
+4. Uncommon (but still important) Git Commands
     * Squashing Commits with an Interactive Rebase
     * In Case of Emergency: Break Glass. Aggressively Rewriting History.
     * Working with multiple remotes
-5. A Sample GitHub workflow
+5. Code Quality and Automation with GitHub Actions and GitHub Advanced Security
+    * Setting up Dependabot Alerts
+    * Introducing GitHub Actions
+    * Adding Automated Testing with GitHub Actions
+    * Publishing a release as an npm package with GitHub Actions
+    * Pushing code to another repo* Integrating CodeQL
+6. A Sample GitHub workflow
     * Working With Pull Requests
     * Creating a Feature Branch
     * Opening a Pull Request in GitHub
     * Requesting Reviewers and assigning yourself the ticket
     * Using the Draft Feature Whie Code is a Work in Progress
-    * Using Tags
-    * Code Quality Tools
+    * Using Labels
+    * Working with Code Quality Tools
     * The Review Process
-6. Code Quality and Automation with GitHub Actions
+    * Publishing releases
+
