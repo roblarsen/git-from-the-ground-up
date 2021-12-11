@@ -1,10 +1,13 @@
 # Git From the Ground Up
 
-Outline
-Preface
+## Outline
+0. Preface
    * Who is this book for
+   * What this book covers 
    * Pre-requisites
    * Technical Requirements
+   * Download the code in this book
+   * Conventions used
    * Contact info
 1. Introduction to Git
     * What is Source Code Management (SCM?)
