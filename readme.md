@@ -9,12 +9,17 @@
    * Download the code in this book
    * Conventions used
    * Contact info
-1. Introduction to Git
+1. What is Source Code Management (SCM)
     * What is Source Code Management (SCM?)
-    * The SCM landscape before Git
+    * Why Use SCM
+    * The SCM landscape
+3. What is Git
     * A Brief History of Git
     * Commercial support with GitHub, BitBucket and GitLab
-2. Diving Right In
+4. Why Git?
+    * The Power of Open Source
+    * Open Source Invades the Enterprise 
+6. Diving Right In
     * Installing Git
     * A Brief Introduction to Git Tooling
     * Setting up your local configuration
@@ -23,7 +28,7 @@
     * Creating your first commit
     * Connecting your local repo to GitHub
     * Pushing your changes to GitHub
-3. A Guide to Common Git Commands
+7. A Guide to Common Git Commands
     * An introduction to git checkout
     * Safely store your changes with git stash
     * Viewing the history of a repo with git log
@@ -32,17 +37,17 @@
     * Working with remotes using git remote, git fetch, git push and git pull
     * Local housekeeping with git reset, git revert and git clean
     * Ready for release, creating and pushing tags
-4. Uncommon (but still important) Git Commands
+8. Uncommon (but still important) Git Commands
     * Squashing Commits with an Interactive Rebase
     * In Case of Emergency: Break Glass. Aggressively Rewriting History.
     * Working with multiple remotes
-5. Code Quality and Automation with GitHub Actions and GitHub Advanced Security
+9. Code Quality and Automation with GitHub Actions and GitHub Advanced Security
     * Setting up Dependabot Alerts
     * Introducing GitHub Actions
     * Adding Automated Testing with GitHub Actions
     * Publishing a release as an npm package with GitHub Actions
     * Pushing code to another repo* Integrating CodeQL
-6. A Sample GitHub workflow
+10. A Sample GitHub workflow
     * Working With Pull Requests
     * Creating a Feature Branch
     * Opening a Pull Request in GitHub
