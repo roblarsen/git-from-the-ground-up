@@ -1,7 +1,10 @@
-Introduction
-Introducing-Git
-Diving-Right-In
-A-Guide-to-Common-Git-Commands
-Uncommon-But-Useful-Git-Commands
-A-Sample-GitHub-workflow
-Code-Quality-and-Automation-with-GitHub-Actions
+Preface
+What is Source Code Management (SCM)
+What is Git
+A Brief History of Git
+Why Git?
+Diving Right In
+A Guide to Common Git Commands
+Uncommon (but still important) Git Commands
+Code Quality and Automation with GitHub Actions and GitHub Advanced Security
+A Sample GitHub workflow
