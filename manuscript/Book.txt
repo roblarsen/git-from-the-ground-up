@@ -2,7 +2,7 @@ preface
 what-is-source-code-management-(scm)
 what-is-git
 a-brief-history-of-git
-why-git?
+why-git
 diving-right-in
 a-guide-to-common-git-commands
 uncommon-(but-still-important)-git-commands
