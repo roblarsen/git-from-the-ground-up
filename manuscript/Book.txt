@@ -2,7 +2,7 @@ preface
 00-introduction
 01-what-is-source-code-management-(scm)
 02-what-is-git
-02-why-git
+03-why-git
 04-a-brief-history-of-git
 05-why-git
 06-diving-right-in
