@@ -1,4 +1,5 @@
-00-preface
+preface
+00-introduction
 01-what-is-source-code-management-(scm)
 02-what-is-git
 03-a-brief-history-of-git
